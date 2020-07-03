@@ -1,6 +1,5 @@
 import random
 from time import sleep
-from tqdm import tqdm, tqdm_gui
 from os import system, name
 
 def clear(): 
